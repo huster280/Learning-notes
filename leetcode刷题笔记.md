@@ -247,5 +247,3 @@ bool isPalindrome(string s) {
 ```
 
 
-
-
