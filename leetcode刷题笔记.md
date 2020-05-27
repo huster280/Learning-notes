@@ -1,4 +1,5 @@
-[toc]
+
+
 ##### A+B问题
 [简单](https://www.lintcode.com/problem/a-b-problem/description)
 
