@@ -1,6 +1,14 @@
 ## leetcode刷题笔记
 
-
+>   提交记录 “use SSH to push” falied
+>
+>   log
+>
+>   ```c
+>   fatal: Could not read from remote repository.
+>   ```
+>
+>    **解决办法：删除当前key，然后重新生成key** 
 
 ### 链表
 
