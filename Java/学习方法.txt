@@ -1,0 +1,18 @@
+《Java核心技术》前六章：
+1. Java程序设计概述
+2. Java程序设计环境
+3. Java的基础程序设计结构
+4. 对象与类
+5. 继承
+6. 接口与内部类
+
+
+多写学习笔记：难点手册
+分门别类保存demo
+Java EE：Spring（核心概念IOC AOP）、SpringMVC    初步掌握Spring大概1到1个半月
+其他知识：MySql、Mybatis、Redis、Servlet
+实践项目：学生管理系统（数据库设计、Mybatis，Spring、SpringMVC，Servlet、Tomcat；JS、HTML前端知识）
+
+
+没必要学习：JavaScript、Struts（用Spring MVC代替）、Hibernate（MyBatis代替）
+Servlet（要精通）
